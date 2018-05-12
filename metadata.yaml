@@ -1,4 +1,5 @@
 _repo: The-Story-of-Moscow_46510
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: James, Helen M.
@@ -7,9 +8,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43710
 covers:
 - cover_type: archival
-  image_path: 46510/46510-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46510-h/images/cover.jpg
 creator:
   author:
     agent_name: Gerrare, Wirt
@@ -18,6 +17,8 @@ creator:
     gutenberg_agent_id: '43821'
     url: http://www.gutenberg.org/2009/agents/43821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46510#The-Story-of-Moscow
 gutenberg_bookshelf: Mediæval Town Series
 gutenberg_issued: '2014-08-05'
 gutenberg_type: Text
